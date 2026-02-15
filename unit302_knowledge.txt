@@ -1,0 +1,45 @@
+Unit 302 Develop Own Effectiveness and Professionalism
+App Optimised Knowledge File
+Unit Summary
+This unit explains how a learner develops personal and professional skills, works effectively as part of a team, understands professional practice in the IT industry, meets ethical and legal expectations, and contributes to organisational effectiveness. Assessment requires workplace based evidence, reflection and explanation of real activities carried out by the learner.
+Learning Outcome 1 Develop Own Personal and Professional Skills
+Assessment Criterion 1.1 Identify Own Development Needs and Activities
+Learners describe why they joined the programme, what experience they had before starting and what skills they needed to develop. Development needs may relate to technical skills, confidence, communication or having no previous IT experience. Activities that support development include workplace training, online learning, formal courses, guided practice, and participation in apprenticeship tasks. Learners show how they evaluated strengths and weaknesses and how this guided their development plan.
+Assessment Criterion 1.2 Obtain and Review Feedback from Others on Performance
+Learners receive feedback through performance reviews, meetings with assessors, workplace discussions, and written comments on coursework. Learners must show that they listen to feedback, consider it and use it to improve. Feedback may relate to behaviour, customer service, time management or technical ability. Evidence includes review notes, screenshots of feedback systems and reflections on what improvements were made.
+Assessment Criterion 1.3 Agree Personal Goals and Participate in Development Activities
+Learners agree goals with managers or assessors and take steps to achieve them. Activities may include training, self study, completing tasks to deadlines, improving call handling, or increasing knowledge in specific IT areas. Learners reflect on how goals helped them focus, how progress was monitored and how feedback guided new goals.
+Learning Outcome 2 Work as a Member of a Team to Achieve Defined Goals and Implement Agreed Plans
+Assessment Criterion 2.1 Effectively Plan and Manage Own Time
+Learners explain how they balance work and study, how they use calendars, rotas and internal systems to plan tasks, how they book leave or report sickness, and how they manage deadlines. They show understanding of workplace expectations around attendance, punctuality and planning.
+Assessment Criterion 2.2 Recognise and Respect Diversity
+Learners explain how diversity is supported in their workplace and refer to relevant legislation such as equality and anti discrimination laws. They describe policies, training and workplace adjustments that support fairness. Learners reflect on how they show respect for colleagues with different backgrounds, needs or beliefs.
+Assessment Criterion 2.3 Accept and Provide Feedback in a Constructive and Considerate Manner
+Learners describe how they give and receive feedback in meetings, training sessions, team discussions or everyday communication. They explain the importance of being respectful, clear and open. They reflect on how feedback has helped them improve and how they have contributed feedback to help improve team performance.
+Assessment Criterion 2.4 Understand the Responsibilities Interests and Concerns of Colleagues
+Learners explain the different roles within their team and how each contributes to shared goals. They describe shadowing or induction activities that helped them understand colleagues responsibilities. They explain how communication and cooperation support a positive working environment and how colleagues support one another.
+Assessment Criterion 2.5 Identify and Reduce Obstacles to Effective Teamwork
+Learners identify common issues such as poor communication, confusion about roles, personal disagreements, inconsistent workloads or lack of support. They explain how these obstacles affect teamwork and describe ways to reduce them through communication, fairness, leadership and shared understanding.
+Learning Outcome 3 Understand What is Meant by Professional Practice
+Assessment Criterion 3.1 Describe the Implications and Applicability of the Data Protection Act and the Computer Misuse Act
+Learners explain how the Data Protection Act and GDPR protect personal data and how IT staff must handle data securely. They describe responsibilities such as using only appropriate information, following security procedures and obtaining consent when needed. They also explain the Computer Misuse Act and offences such as unauthorised access, intentional system damage and misuse of data. Learners describe consequences of breaches and how organisations ensure compliance.
+Assessment Criterion 3.2 Identify the Role of Professional Bodies for IT and the Benefits of Membership
+Learners identify IT professional bodies such as BCS IEEE or CompTIA and explain how they support individuals and organisations. Benefits include training, standards, networking opportunities, career progression and access to industry resources. Learners explain how membership promotes professionalism and continuous learning.
+Assessment Criterion 3.3 Describe Quality Management Systems and Standards for Systems Development
+Learners explain what a quality management system is and provide examples such as ISO 9001 or ISO 27001. They describe how organisations plan, monitor and improve their processes and how quality systems help ensure consistent results, customer satisfaction and compliance with regulations.
+Learning Outcome 4 Understand the Ethical and Legislative Environment Relating to IT Activities
+Assessment Criterion 4.1 Identify Types of Conflict of Interest for IT Professionals
+Learners identify conflicts such as accepting gifts, using confidential information improperly, favouritism or working for competing organisations. They explain scenarios where conflicts might arise and why they are harmful. Learners show understanding of the importance of integrity and neutrality in IT.
+Assessment Criterion 4.2 Describe the Impact of Legislation on an IT Organisation
+Learners describe how legislation affects IT operations. This includes secure handling of financial transactions, maintaining health and safety in technical environments, protecting privacy and confidentiality under data laws, and respecting copyright and intellectual property rules. Learners explain how organisations comply and what happens if legislation is breached.
+Learning Outcome 5 Improve Organisational Effectiveness
+Assessment Criterion 5.1 Describe the Aims and Objectives of the Organisation
+Learners describe the mission goals and priorities of their organisation. This may include customer service aims, service delivery standards, technological development or community responsibilities.
+Assessment Criterion 5.2 Describe the Organisation’s Brand or Image and How it can be Promoted
+Learners explain how their organisation presents itself, how it communicates with users or customers and how brand reputation is maintained. Promotion may involve internal communication, service updates, community involvement or online presence.
+Assessment Criterion 5.3 Identify the Organisation’s Structure Roles and Responsibilities
+Learners describe the organisational structure and explain how different teams and levels support operations. They identify their own place in the structure and understand reporting lines and responsibilities.
+Assessment Criterion 5.4 Identify Potential Improvements to Organisational Effectiveness
+Learners suggest realistic improvements based on their experience. These may relate to communication, training, technology, procedures, workload management or service delivery. They explain why the improvement would be beneficial and how it could be implemented.
+Marking Guidance
+All evidence must be workplace based and clearly linked to assessment criteria. Learners should reference legislation, organisational policies and actual work activities. Personal reflection must be clear. Each criterion requires explanation supported by real examples.
