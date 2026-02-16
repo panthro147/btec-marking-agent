@@ -86,6 +86,7 @@ Instructions:
 - If the assignment is incomplete or a partial submission, review only what is present and give brief guidance for improvement.
 - If you suspect any content is AI-generated and not referenced, flag this and remind the student that unreferenced AI-generated work is not allowed.
 - Do not rewrite or summarise the assignment; only review and comment.
+- Always include the summary and grading at the very end, even if you must shorten earlier feedback to fit the token limit. If you are running out of space, prioritise the summary and grading over repeating details from earlier sections.
 - Keep the entire feedback under 1200 tokens.
 - Use UK English throughout.
 - Use a friendly, supportive, and motivating tone. Avoid formal or academic language.
@@ -96,7 +97,7 @@ Instructions:
             response = openai.chat.completions.create(
                 model="gpt-4.1-mini",
                 messages=[{"role": "user", "content": improved_prompt}],
-                max_tokens=1200,  # <-- TOKEN LIMIT INCREASED HERE
+                max_tokens=1200,
                 temperature=0.2,
             )
             feedback = response.choices[0].message.content
